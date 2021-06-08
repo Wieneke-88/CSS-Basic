@@ -1,22 +1,33 @@
-
+*{
+  margin: 0;
+  padding: 0;  
+}
 body {
     background-color: whitesmoke;
     color: darkgoldenrod; 
     font-family: 'Courier New', Courier, monospace;
     font-size: 12px;
 }
-.border{
-    border: 1px solid darkgoldenrod;
-}
-.headersize{
-    font-size: 40px;
-}
-.paragraph {
-    font-size: 16px;
-}
-.paragraphsmall{
+main{
+    background-color: whitesmoke;
+    color: darkslategray; 
+    font-family: 'Courier New', Courier, monospace;
     font-size: 12px;
 }
-#background{
-    background-color: lightsteelblue;
+
+.container{
+    width:70%;
+    margin:auto;
+}
+
+.box-1{
+    border: 5px goldenrod solid; 
+    padding: 20px;
+    margin: 20px; 
+}
+
+.box-2 h1{
+    border: 10px olive solid; 
+    padding: 20px; 
+    margin: 20px; 
 }

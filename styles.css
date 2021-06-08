@@ -1,0 +1,22 @@
+
+body {
+    background-color: whitesmoke;
+    color: darkgoldenrod; 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+}
+.border{
+    border: 1px solid darkgoldenrod;
+}
+.headersize{
+    font-size: 40px;
+}
+.paragraph {
+    font-size: 16px;
+}
+.paragraphsmall{
+    font-size: 12px;
+}
+#background{
+    background-color: lightsteelblue;
+}
